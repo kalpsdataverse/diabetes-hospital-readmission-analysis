@@ -149,7 +149,7 @@ Includes:
 
 ### Hospital Encounter & Readmission Analysis
 
-![Hospital Encounter and Readmission Analysis](4_Hospital Encounter and Readmission Analysis.jpg)
+![Hospital Encounter Analysis](4_Hospital_Encounter_Readmission_Analysis.jpg)
 ## Conclusion
 
 This project demonstrates an end-to-end healthcare data analytics workflow, from data preparation and SQL analysis to interactive Tableau dashboard development.
